@@ -35,8 +35,7 @@ EXAMPLE --> [https://api.iblockchainbank.eu/exchange/exchangeID/780a4728-8ac7-4b
 ### Dogecoin's Exchange Coin Pairs 
 
 Example:
-            /send/ => `<coin_id>` = `bitcoin_BTC`
-            /receive/ => `<coin_id>` = `ethereum_ETH`
+> /send/ => `<coin_id>` = `bitcoin_BTC`  /receive/ => `<coin_id>` = `ethereum_ETH`
 
 * `pm_USD`
 * `pmvoucher_USD`
