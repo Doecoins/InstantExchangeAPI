@@ -18,7 +18,7 @@ EXAMPLE --> https://api.iblockchainbank.eu/exchange/exchangeID/780a4728-8ac7-4b4
 
 ### How to Check Exchange Rate for Doecoins.com
 
-https://api.iblockchainbank.eu/rates/send/`<coin_id>`/receive/`<coin_id>`/
+https://api.iblockchainbank.eu/rates/send/<coin_id>/receive/<coin_id>/
 
 -->EXAMPLE -- https://api.iblockchainbank.eu/rates/send/litecoin_LTC/receive/bitcoin_BTC/
 
