@@ -32,7 +32,11 @@ EXAMPLE --> [https://api.iblockchainbank.eu/exchange/exchangeID/780a4728-8ac7-4b
 
 -->EXAMPLE -- [https://api.iblockchainbank.eu/limits/send/litecoin_LTC/receive/bitcoin_BTC/]
 
-### Dogecoin's Exchange Coin Pairs `<coin_id>`
+### Dogecoin's Exchange Coin Pairs 
+
+Example:
+            Send => `<coin_id>` = `bitcoin_BTC`
+            Receive => `<coin_id>` = `ethereum_ETH`
 
 * `pm_USD`
 * `pmvoucher_USD`
