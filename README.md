@@ -38,7 +38,7 @@ EXAMPLE --> [https://api.iblockchainbank.eu/exchange/exchangeID/780a4728-8ac7-4b
 * pmvoucher_USD
 * payeer_USD
 * advcash_USD
-* ![bitcoin_BTC] (/images/btc_coin.png)
+* ! [bitcoin_BTC] (/images/btc_coin.png)
 * ethereum_ETH
 * bitcoincash_BCH
 * dogecoin_DOGE
