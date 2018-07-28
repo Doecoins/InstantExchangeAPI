@@ -9,7 +9,7 @@ Instant Cryptocurrency Exchange API
 * `processed`: Your exchange has been successfully processed.
 * `denied`: Your exchange has been denied and refunded to your payer account/address.
 
-[https://api.iblockchainbank.eu/exchange/exchangeID/ `exchangeID` /]          
+[https://api.iblockchainbank.eu/exchange/exchangeID/ `<exchangeID>` /]          
 
 **you can add '/' or dismiss it**
 
@@ -20,7 +20,7 @@ EXAMPLE --> [https://api.iblockchainbank.eu/exchange/exchangeID/780a4728-8ac7-4b
 
 ### How to Check Exchange Rate for Doecoins.com
 
-[https://api.iblockchainbank.eu/rates/send/*<coin_id>*/receive/*<coin_id>*/]
+[https://api.iblockchainbank.eu/rates/send/ `<coin_id>` /receive/ `<coin_id>` /]
 
 -->EXAMPLE -- [https://api.iblockchainbank.eu/rates/send/litecoin_LTC/receive/bitcoin_BTC/]
 
@@ -28,11 +28,11 @@ EXAMPLE --> [https://api.iblockchainbank.eu/exchange/exchangeID/780a4728-8ac7-4b
 
 ### How to Check Exchange Limits per Transaction for Doecoins.com
 
-[https://api.iblockchainbank.eu/limits/send/*<coin_id>*/receive/*<coin_id>*/]
+[https://api.iblockchainbank.eu/limits/send/ `<coin_id>` /receive/ `<coin_id>` /]
 
 -->EXAMPLE -- [https://api.iblockchainbank.eu/limits/send/litecoin_LTC/receive/bitcoin_BTC/]
 
-### Dogecoin's Exchange Coin Pairs **<coin_id>**
+### Dogecoin's Exchange Coin Pairs `<coin_id>`
 
 * `pm_USD`
 * `pmvoucher_USD`
