@@ -14,7 +14,7 @@ Instant Cryptocurrency Exchange API
 **you can add '/' or dismiss it**
 
 
-EXAMPLE --> [https://api.iblockchainbank.eu/exchange/exchangeID/780a4728-8ac7-4b46-909f-53c7839c9679/]
+> EXAMPLE --> [https://api.iblockchainbank.eu/exchange/exchangeID/780a4728-8ac7-4b46-909f-53c7839c9679/]
 
 
 
@@ -22,7 +22,7 @@ EXAMPLE --> [https://api.iblockchainbank.eu/exchange/exchangeID/780a4728-8ac7-4b
 
 [https://api.iblockchainbank.eu/rates/send/ `<coin_id>` /receive/ `<coin_id>` /]
 
--->EXAMPLE -- [https://api.iblockchainbank.eu/rates/send/litecoin_LTC/receive/bitcoin_BTC/]
+> EXAMPLE -- [https://api.iblockchainbank.eu/rates/send/litecoin_LTC/receive/bitcoin_BTC/]
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ EXAMPLE --> [https://api.iblockchainbank.eu/exchange/exchangeID/780a4728-8ac7-4b
 
 [https://api.iblockchainbank.eu/limits/send/ `<coin_id>` /receive/ `<coin_id>` /]
 
--->EXAMPLE -- [https://api.iblockchainbank.eu/limits/send/litecoin_LTC/receive/bitcoin_BTC/]
+> EXAMPLE -- [https://api.iblockchainbank.eu/limits/send/litecoin_LTC/receive/bitcoin_BTC/]
 
 ### Dogecoin's Exchange Coin Pairs 
 
