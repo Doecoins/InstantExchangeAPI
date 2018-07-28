@@ -9,7 +9,7 @@ Instant Cryptocurrency Exchange API
 * `processed`: Your exchange has been successfully processed.
 * `denied`: Your exchange has been denied and refunded to your payer account/address.
 
-[https://api.iblockchainbank.eu/exchange/exchangeID/*exchangeID*/]          
+[https://api.iblockchainbank.eu/exchange/exchangeID/ `exchangeID` /]          
 
 **you can add '/' or dismiss it**
 
@@ -37,18 +37,18 @@ EXAMPLE --> [https://api.iblockchainbank.eu/exchange/exchangeID/780a4728-8ac7-4b
 * `pm_USD`
 * `pmvoucher_USD`
 * `payeer_USD`
-* advcash_USD
-* bitcoin_BTC
-* ethereum_ETH
-* bitcoincash_BCH
-* dogecoin_DOGE
-* dash_DASH
-* monero_XMR
-* zcash_ZEC
-* litecoin_LTC
-* ethereumclassic_ETC
-* augur_REP
-* golem_GNT
-* gnosis_GNO
-* liskLSK
-* peercoin_PPC
+* `advcash_USD`
+* `bitcoin_BTC`
+* `ethereum_ETH`
+* `bitcoincash_BCH`
+* `dogecoin_DOGE`
+* `dash_DASH`
+* `monero_XMR`
+* `zcash_ZEC`
+* `litecoin_LTC`
+* `ethereumclassic_ETC`
+* `augur_REP`
+* `golem_GNT`
+* `gnosis_GNO`
+* `liskLSK`
+* `peercoin_PPC`
