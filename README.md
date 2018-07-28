@@ -16,7 +16,7 @@ Instant Cryptocurrency Exchange API
 
 > EXAMPLE --> [https://api.iblockchainbank.eu/exchange/exchangeID/780a4728-8ac7-4b46-909f-53c7839c9679/]
 
-
+--------------------------------------------------------------------------------------------------------------------------------------
 
 ### How to Check Exchange Rate for Doecoins.com
 
@@ -31,6 +31,8 @@ Instant Cryptocurrency Exchange API
 [https://api.iblockchainbank.eu/limits/send/ `<coin_id>` /receive/ `<coin_id>` /]
 
 > EXAMPLE -- [https://api.iblockchainbank.eu/limits/send/litecoin_LTC/receive/bitcoin_BTC/]
+
+--------------------------------------------------------------------------------------------------------------------------------------
 
 ### Dogecoin's Exchange Coin Pairs 
 
