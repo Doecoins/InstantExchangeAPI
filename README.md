@@ -34,11 +34,11 @@ EXAMPLE --> [https://api.iblockchainbank.eu/exchange/exchangeID/780a4728-8ac7-4b
 
 ### Dogecoin's Exchange Coin Pairs **<coin_id>**
 
-* pm_USD
-* pmvoucher_USD
-* payeer_USD
+* `pm_USD`
+* `pmvoucher_USD`
+* `payeer_USD`
 * advcash_USD
-* ! [bitcoin_BTC] (/images/btc_coin.png)
+* bitcoin_BTC
 * ethereum_ETH
 * bitcoincash_BCH
 * dogecoin_DOGE
