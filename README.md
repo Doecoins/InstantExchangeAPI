@@ -21,9 +21,7 @@ All responses from Doecoins's API are in JSON format.
 Doecoins API supports CORS (Cross-origin Resource sharing) to allow access directly from a browser or client side only application.
 
 
-
-
-## How to Check Exchange Transaction Status for Doecoins.com
+## Getting Started: How to Check Exchange Transaction Status for Doecoins.com
 
 ### Tx Status
 * `new`: We haven't received a payment yet.
@@ -80,5 +78,5 @@ Example:
 * `liskLSK`
 * `peercoin_PPC`
 
-If you're not already familiar our API, you should spend 15 minutes and go over the excellent details on
-**[How to Perform an Instant Exchange](https://github.com/Doecoins/InstantExchangeAPI/wiki/How-to-Perform-an-Instant-Exchange)**
+If you're not already familiar our API, you should spend few minutes and go over the excellent details on
+- **[How to Perform an Instant Exchange](https://github.com/Doecoins/InstantExchangeAPI/wiki/How-to-Perform-an-Instant-Exchange)**
