@@ -78,5 +78,7 @@ Example:
 * `liskLSK`
 * `peercoin_PPC`
 
-If you're not already familiar our API, you should spend few minutes and go over the excellent details on
+## Executing an Instant Exchange on Doecoins.com
+
+You should spend few minutes and before familiar with our API and go over the details on
 - **[How to Perform an Instant Exchange](https://github.com/Doecoins/InstantExchangeAPI/wiki/How-to-Perform-an-Instant-Exchange)**
