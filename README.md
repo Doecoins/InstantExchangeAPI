@@ -78,3 +78,5 @@ Example:
 * `gnosis_GNO`
 * `liskLSK`
 * `peercoin_PPC`
+
+[How to Perform an Instant Exchange] https://github.com/Doecoins/InstantExchangeAPI/wiki/How-to-Perform-an-Instant-Exchange
