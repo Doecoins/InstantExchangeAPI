@@ -79,4 +79,4 @@ Example:
 * `liskLSK`
 * `peercoin_PPC`
 
-[Details on How to Perform an Instant Exchange] (https://github.com/Doecoins/InstantExchangeAPI/wiki/How-to-Perform-an-Instant-Exchange)
+[Details on How to Perform an Instant Exchange](https://github.com/Doecoins/InstantExchangeAPI/wiki/How-to-Perform-an-Instant-Exchange)
