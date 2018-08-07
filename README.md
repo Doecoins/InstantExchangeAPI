@@ -3,6 +3,24 @@
 # Instant Cryptocurrency Exchange API
 
 [![Join the Gitchat at https://gitter.im/TokenIndustrialAverage/Lobby](https://badges.gitter.im/TokenIndustrialAverage/Lobby.svg)](https://gitter.im/TokenIndustrialAverage/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+This document is intended to assist software developers who want to develop applications using Changer.com API. It fully documents our application programming interface (API) that allows developers to interact with our system.
+
+# To use the information provided here, you should also be familiar with:
+
+* RESTful web services
+* HTTP/1.1
+* JSON (JavaScript Object Notation)
+
+Our Application Program Interface will allow you to automate the process of making exchanges, receiving information about your account, fetching history of exchanges and transactions within your own software.
+
+The API is based on REST principles, it's very easy to write and test applications. You can use your browser to access URLs, and you can use pretty much any HTTP client in any programming language to interact with the API.
+
+All responses from Doecoins's API are in JSON format.
+
+Doecoins API supports CORS (Cross-origin Resource sharing) to allow access directly from a browser or client side only application.
+
+
+
 
 ## How to Check Exchange Transaction Status for Doecoins.com
 
