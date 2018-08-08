@@ -81,6 +81,6 @@ Example:
 ## Executing an Instant Exchange on Doecoins.com
 
 You should spend few minutes and become familiar with our API and go over the details on
-- **[How to Perform an Instant Exchange](https://github.com/Doecoins/InstantExchangeAPI/wiki/How-to-Perform-an-Instant-Exchange)**
+WIKI - **[How to Perform an Instant Exchange](https://github.com/Doecoins/InstantExchangeAPI/wiki/How-to-Perform-an-Instant-Exchange)**
 
 *NOTICE* You can send an exchange request with no risk, the status will remain as ``new`` until it receives the coins requested for the exchange and ultimatelly the request will expire after 24 hrs.
