@@ -29,7 +29,7 @@ Doecoins API supports CORS (Cross-origin Resource sharing) to allow access direc
 * `processed`: Your exchange has been successfully processed.
 * `denied`: Your exchange has been denied and refunded to your payer account/address.
 
-[https://api.iblockchainbank.eu/exchange/exchangeID/ `<exchangeID>` /]          
+[https://api.iblockchainbank.eu/exchange/exchangeID/`<exchangeID>`/]          
 
 **you can add '/' or dismiss it**
 
@@ -40,7 +40,7 @@ Doecoins API supports CORS (Cross-origin Resource sharing) to allow access direc
 
 ### How to Check Exchange Rate for Doecoins.com
 
-[https://api.iblockchainbank.eu/rates/send/ `<coin_id>` /receive/ `<coin_id>` /]
+[https://api.iblockchainbank.eu/rates/send/`<coin_id>`/receive/`<coin_id>`/]
 
 > EXAMPLE -- [https://api.iblockchainbank.eu/rates/send/litecoin_LTC/receive/bitcoin_BTC/]
 
@@ -48,7 +48,7 @@ Doecoins API supports CORS (Cross-origin Resource sharing) to allow access direc
 
 ### How to Check Exchange Limits per Transaction for Doecoins.com
 
-[https://api.iblockchainbank.eu/limits/send/ `<coin_id>` /receive/ `<coin_id>` /]
+[https://api.iblockchainbank.eu/limits/send/`<coin_id>`/receive/`<coin_id>`/]
 
 > EXAMPLE -- [https://api.iblockchainbank.eu/limits/send/litecoin_LTC/receive/bitcoin_BTC/]
 
