@@ -12,7 +12,7 @@ This document is intended to assist software developers who want to develop appl
 * HTTP/1.1
 * JSON (JavaScript Object Notation)
 
-Our Application Program Interface will allow you to automate the process of making exchanges, receiving, fetching history of exchanges and transactions within your own software without the need of an special API keys or accounts.
+Our Application Program Interface will allow you to automate the process of making exchanges, receiving, fetching history of exchanges and transactions within your own software without the need of any special API keys or accounts.
 
 The API is based on REST principles, it's very easy to write and test applications. You can use your browser to access URLs, and you can use pretty much any HTTP client in any programming language to interact with the API.
 
